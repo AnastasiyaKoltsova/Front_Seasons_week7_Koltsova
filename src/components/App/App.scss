@@ -1,0 +1,13 @@
+.container {
+    padding: 3%;
+    background-image: linear-gradient(to bottom right, #45b7f5, #6bf700e4);
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 5vh;
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
