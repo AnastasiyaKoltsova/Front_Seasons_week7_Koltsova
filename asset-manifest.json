@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AnastasiyaKoltsova/Front_Seasons_week7_Koltsova/static/css/main.32cb1ce8.css",
+    "main.js": "/AnastasiyaKoltsova/Front_Seasons_week7_Koltsova/static/js/main.78a861b0.js",
+    "index.html": "/AnastasiyaKoltsova/Front_Seasons_week7_Koltsova/index.html",
+    "main.32cb1ce8.css.map": "/AnastasiyaKoltsova/Front_Seasons_week7_Koltsova/static/css/main.32cb1ce8.css.map",
+    "main.78a861b0.js.map": "/AnastasiyaKoltsova/Front_Seasons_week7_Koltsova/static/js/main.78a861b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32cb1ce8.css",
+    "static/js/main.78a861b0.js"
+  ]
+}
